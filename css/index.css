@@ -363,4 +363,11 @@
         width: 95%;
         margin: 0px auto;
     }
+
+    .quotation{
+        text-align: center;
+        font-size: 6rem;
+        transform: rotateZ(180deg);
+        line-height: 30px;
+    }
 }
