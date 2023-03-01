@@ -167,7 +167,7 @@
     margin: 0px auto;
 }
 #Testimonial .card{
-    width:400px;
+    width:300px;
     border: 0px;
     height: fit-content;
     padding-bottom: 10px;
@@ -277,6 +277,16 @@
         width: 80vw;
         margin: 0px auto;
     }
+
+    .btn-round-blue,
+.btn-round-register,
+.btn-round-whitebrown,
+.btn-submit,
+.btn-contact,.btn-round-whitebrown ,
+.btn-contact , .btn-round-blue,
+.btn-round-register {
+    font-size: 15px;
+}
 }
 
 @media only screen and (max-width: 800px) {
